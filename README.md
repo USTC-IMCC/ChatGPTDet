@@ -1,0 +1,2 @@
+# ChatGPTDet
+ChatGPT Detection Task
